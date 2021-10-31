@@ -1,4 +1,4 @@
-## E-Commerce project using modern technologies:-
+## E-Commerce project using technologies:-
 
 ---
 
