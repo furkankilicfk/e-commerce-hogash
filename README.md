@@ -1,9 +1,9 @@
 ## This is Kodluyoruz Bootcamp Project Homework
 
 https://wonderful-goldwasser-d4435d.netlify.app/
-## E-Commerce project using technologies:-
 
----
+
+## E-Commerce project using technologies:-
 
 - ReactJS
 - React Hooks
@@ -15,6 +15,4 @@ https://wonderful-goldwasser-d4435d.netlify.app/
 - react-icons
 - axios
 - bootstrap-grid
-
-https://app.netlify.com/sites/wonderful-goldwasser-d4435d/overview
 
