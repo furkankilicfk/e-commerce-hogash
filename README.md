@@ -1,7 +1,6 @@
 ## This is Kodluyoruz Bootcamp Project Homework
 
-https://app.netlify.com/sites/wonderful-goldwasser-d4435d/overview
-
+https://wonderful-goldwasser-d4435d.netlify.app/
 ## E-Commerce project using technologies:-
 
 ---
